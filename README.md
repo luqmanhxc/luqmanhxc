@@ -16,7 +16,3 @@ Recently completed RP-Nvidia Artificial Intelligence Innovation & Training Progr
   <a href="https://github.com/luqmanhxc"><img src="https://github-readme-stats.vercel.app/api?username=luqmanhxc&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
   <a href="https://github.com/luqmanhxc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanhxc&count_private=true&hide=scss,css,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
-
-## &#x1f92b; Github Visitors
-
-[![Top Langs](https://profile-counter.glitch.me/sky5454/count.svg)](https://github.com/luqmanhxc)
