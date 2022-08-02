@@ -1,7 +1,8 @@
 ## &#x1f92b; Hey, guys. I'm Luqman.
 
 Recently completed RP-Nvidia Artificial Intelligence Innovation & Training Programme
-
+Currently looking for a job in AI
+Currently learning front-end development
 
 - Email: luqmanhxc@gmail.com
 - LinkedIn: https://www.linkedin.com/in/luqman-hakim-abdullah/
